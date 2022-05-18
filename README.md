@@ -1,5 +1,6 @@
 # dog-shelter-api
 
+##### [Live Demo](https://dog-shelter.scuticode.com/swagger/index.html)
 ## Requirements
 
 1. **We prefer C#, but other languages are also fine**
