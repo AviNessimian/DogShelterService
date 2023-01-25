@@ -1,4 +1,4 @@
-# dog-shelter-api
+# Senior BackEnd Engineer Exercise: dog-shelter-api
 
 ##### [Live Demo](https://dog-shelter.scuticode.com/swagger/index.html)
 ## Requirements
