@@ -89,4 +89,3 @@ Cover your code with unit tests as you see fit.
 
 1. Add the capability to filter dogs by their breed.
 2. Add the capability to filter dogs by their temperament. In the example above, requests for a dog with a temperament of "Vigilant" should return Canaan dogs. As you can see in the public dog API, each dog can have several temperaments.
-
